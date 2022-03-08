@@ -2,11 +2,11 @@
 
 Install dependencies:
 
-  $ npm install
+    $ npm install
 
 Run the app:
 
-  $ npm run dev
+    $ npm run dev
 
 ## What to do?
 
